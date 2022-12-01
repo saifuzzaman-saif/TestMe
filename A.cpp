@@ -77,4 +77,4 @@ int SAIF()
 // read the question correctly (is y a vowel? what are the exact constraints?)
 // look out for SPECIAL CASES (n=1?) and overflow (ll vs int?)
 
-// fixed a in emergency mode.
+// fixed a in emergency mode and merge conflict
